@@ -1,6 +1,0 @@
-﻿  planet.cpp
-C:\Users\olteo\OneDrive\Dokumenty\Studia\GRAF\GRK15\planet.cpp(71,45): warning C4305: "argument": obcięcie z "double" do "GLfloat"
-C:\Users\olteo\OneDrive\Dokumenty\Studia\GRAF\GRK15\planet.cpp(83,46): warning C4305: "argument": obcięcie z "double" do "GLfloat"
-C:\Users\olteo\OneDrive\Dokumenty\Studia\GRAF\GRK15\planet.cpp(104,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
-C:\Users\olteo\OneDrive\Dokumenty\Studia\GRAF\GRK15\planet.cpp(107,25): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
-  GRK15.vcxproj -> C:\Users\olteo\OneDrive\Dokumenty\Studia\GRAF\GRK15\Debug\GRK15.exe
